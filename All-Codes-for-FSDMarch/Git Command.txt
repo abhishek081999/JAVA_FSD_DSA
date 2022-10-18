@@ -1,0 +1,29 @@
+git cheat sheet/ git command
+
+git init
+
+git status
+
+git add "file-name"
+
+git add -A
+
+git commit -m "the Commit message"
+
+git restore "file-name"
+
+git diff --staged
+
+git diff 
+
+<<<<<<< HEAD
+git branch
+
+git branch branch name
+
+git checkout branchname
+
+git checkout -b newBranchName
+=======
+look here
+>>>>>>> 4af050aaf4936b8ca03685f1f6c5274194d68903
